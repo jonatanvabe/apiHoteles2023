@@ -1,0 +1,18 @@
+{
+  "name": "apibahiasolano",
+  "version": "1.0.0",
+  "description": "api rest para un hotel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "rest"
+  ],
+  "author": "Jonatan vargas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
